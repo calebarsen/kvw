@@ -153,8 +153,6 @@ pip-log.txt
 .coverage
 .tox
 
-kvm_prototype/Library
-
 #Translations
 *.mo
 
